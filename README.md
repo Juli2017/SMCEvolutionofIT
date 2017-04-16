@@ -32,7 +32,7 @@ a short history of IT real estate in SMC
 ## 2011
 * Facebook takes over Sun campus in Menlo Park: <a href="http://www.mercurynews.com/2011/02/08/facebook-makes-it-official-its-moving-to-sun-campus-in-menlo-park/">Facebook makes it official: It’s moving to Sun campus in Menlo Park</a>
 
-* Facebook moves to Menlo Park: <a href="http://www.zdnet.com/article/facebook-completes-move-from-palo-alto-to-menlo-park/">FFacebook completes move from Palo Alto to Menlo Park</a>
+* Facebook moves to Menlo Park: <a href="http://www.zdnet.com/article/facebook-completes-move-from-palo-alto-to-menlo-park/">Facebook completes move from Palo Alto to Menlo Park</a>
 
 ## 2013
 * Youtube expands in San Bruno: <a href="http://www.bizjournals.com/sanjose/news/2013/12/13/googles-youtube-grows-33-percent-in.html">YouTube expands San Bruno space by 33 percent, room for 375 workers</a>
