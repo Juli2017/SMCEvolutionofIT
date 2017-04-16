@@ -50,4 +50,4 @@ a short history of IT real estate in SMC
 Menlo Park residents challenge Facebook expansion impact: <a href="https://www.almanacnews.com/news/2016/06/22/residents-are-skeptical-facebook-expansion-will-have-less-than-significant-housing-impact">Menlo Park: Residents skeptical Facebook expansion will have 'less than significant' housing impact</a>
 
 ## 2017
-* Facebook employees ask for help with high rents: <a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo>Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
+* Facebook employees ask for help with high rents: <a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
