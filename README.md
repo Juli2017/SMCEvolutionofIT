@@ -10,7 +10,7 @@ a short history of IT real estate in SMC
 * The city’s largest employer, Sun Microsystems, is closing its sprawling Newark campus, taking with it a significant source of revenue.: <a href="http://www.eastbaytimes.com/2006/05/12/sun-microsystems-shuts-down-newark-campus/">Sun Microsystems shuts down Newark campus </a>
 
 ## 2007
-* Facebook expands in Palo Alto: <a href="http://gawker.com/284714/facebook-takes-over-palo-alto">Facebook takes over Palo Alto</a>
+* Facebook affecting rents in Palo Alto: <a href="http://gawker.com/284714/facebook-takes-over-palo-alto">Facebook takes over Palo Alto</a>
 
 * Google expands to San Bruno: <a href="http://archives.sfexaminer.com/sanfrancisco/google-making-move-into-gap/Content?oid=2148994">Google making move into Gap</a>
 
