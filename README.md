@@ -40,6 +40,7 @@ a short history of IT real estate in SMC
 
 ## 2015
 * Facebook expands in Menlo Park: <a href="http://kalw.org/post/what-facebooks-expansion-means-east-palo-alto">What Facebook's expansion means for East Palo Alto</a>
+* Gilead expands in Foster City: <a href="http://www.bizjournals.com/sanjose/news/2015/09/02/gilead-snags-foster-city-land-where-it-could-build.html">Gilead snags Foster City land where it could build 800,000 square feet</a>
 
 ## 2016
 * Redevelopment of Facebook Palo Alto Site: <a href="https://www.paloaltoonline.com/news/2016/01/12/palo-alto-approves-revamp-of-former-facebook-campus">Palo Alto approves revamp of former Facebook campus</a>
