@@ -37,6 +37,7 @@ a short history of IT real estate in SMC
 
 ## 2012
 * Visa closes last San Francisco Office: <a href="http://www.bizjournals.com/sanfrancisco/news/2012/09/13/visa-headquarters-foster-city.html">Visa moving headquarters from San Francisco to Foster City</a>
+* Facebook Fallout: <a href="http://newamericamedia.org/2012/02/facebooks-new-campus-causes-concern-for-east-palo-alto.php">Facebook Fallout -- East Palo Alto Worries It Will Disappear</a>
 
 ## 2013
 * Youtube expands in San Bruno: <a href="http://www.bizjournals.com/sanjose/news/2013/12/13/googles-youtube-grows-33-percent-in.html">YouTube expands San Bruno space by 33 percent, room for 375 workers</a>
