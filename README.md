@@ -59,7 +59,5 @@ a short history of IT real estate in SMC
 
 * the 35 mile-long commute to Menlo Park is becoming a constant complaint for Facebook employees:<a href="http://www.nbcbayarea.com/news/local/Facebook-Employees-Pressure-Zuckerberg-into-SF-Office-Report-383522791.html">Facebook Employees Pressure Zuckerberg into SF Office: Report</a>
 
-## 2017
-* Facebook employees ask for help with high rents: <a href="http://www.cnbc.com/2017/03/03/facebook-engineers-struggling-with-rents-ask-mark-zuckerberg-for-help.html?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=104319084&yptr=yahoo">Facebook engineers struggling with sky-high rents ask Mark Zuckerberg for help</a>
-* Protest against Facebook by East Palo Alto Residents: <a href="http://www.mercurynews.com/2017/03/30/menlo-park-east-palo-alto-residents-to-rally-against-amazon-and-facebook-amid-gentrification-concerns/">Menlo Park, East Palo Alto residents rally against Facebook, Amazon amid gentrification concerns </a>
+
 
