@@ -35,6 +35,9 @@ a short history of IT real estate in SMC
 
 * Facebook moves to Menlo Park: <a href="http://www.zdnet.com/article/facebook-completes-move-from-palo-alto-to-menlo-park/">Facebook completes move from Palo Alto to Menlo Park</a>
 
+## 2012
+* Visa closes last San Francisco Office: <a href="http://www.bizjournals.com/sanfrancisco/news/2012/09/13/visa-headquarters-foster-city.html">Visa moving headquarters from San Francisco to Foster City</a>
+
 ## 2013
 * Youtube expands in San Bruno: <a href="http://www.bizjournals.com/sanjose/news/2013/12/13/googles-youtube-grows-33-percent-in.html">YouTube expands San Bruno space by 33 percent, room for 375 workers</a>
 
@@ -43,6 +46,8 @@ a short history of IT real estate in SMC
 * Gilead expands in Foster City: <a href="http://www.bizjournals.com/sanjose/news/2015/09/02/gilead-snags-foster-city-land-where-it-could-build.html">Gilead snags Foster City land where it could build 800,000 square feet</a>
 
 ## 2016
+* Visa opens office in Palo Alto: <a href="https://paloaltoonline.com/news/2016/07/25/visa-to-open-new-62000-square-foot-palo-alto-campus">Visa to open new campus in Palo Alto</a>  
+
 * Redevelopment of Facebook Palo Alto Site: <a href="https://www.paloaltoonline.com/news/2016/01/12/palo-alto-approves-revamp-of-former-facebook-campus">Palo Alto approves revamp of former Facebook campus</a>
 
 * Facebook purchases its Menlo Park site: <a href="http://www.mercurynews.com/2016/01/13/menlo-park-facebook-buys-its-campus-at-sun-microsystems-site/">Menlo Park: Facebook buys its campus at Sun Microsystems site </a>
