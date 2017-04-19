@@ -45,6 +45,8 @@ a short history of IT real estate in SMC
 ## 2015
 * Facebook expands in Menlo Park: <a href="http://kalw.org/post/what-facebooks-expansion-means-east-palo-alto">What Facebook's expansion means for East Palo Alto</a>
 * Gilead expands in Foster City: <a href="http://www.bizjournals.com/sanjose/news/2015/09/02/gilead-snags-foster-city-land-where-it-could-build.html">Gilead snags Foster City land where it could build 800,000 square feet</a>
+* Sometimes, it's better to own than to rent.: <a href="http://www.bizjournals.com/sanjose/news/2015/08/04/google-goes-from-renter-to-owner-on-youtube-hq-in.html">Google goes from renter to owner on YouTube HQ in San Bruno with $88M deal</a>
+
 
 ## 2016
 * Visa opens office in Palo Alto: <a href="https://paloaltoonline.com/news/2016/07/25/visa-to-open-new-62000-square-foot-palo-alto-campus">Visa to open new campus in Palo Alto</a>  
