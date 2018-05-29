@@ -61,6 +61,9 @@ a short history of IT real estate in SMC
 
 * the 35 mile-long commute to Menlo Park is becoming a constant complaint for Facebook employees: <a href="http://www.nbcbayarea.com/news/local/Facebook-Employees-Pressure-Zuckerberg-into-SF-Office-Report-383522791.html">Facebook Employees Pressure Zuckerberg into SF Office: Report</a>
 
+## 2017
+* Thousands of Facebook employees are about to experience a much more pleasant commute. : <a href="http://www.businessinsider.com/facebook-office-in-san-francisco-181-fremont-2017-9">Facebook is dropping $35 million to lease a beautiful, earthquake-resistant skyscraper in San Francisco — take a look inside</a>
+
 ## 2018
 * Facebook leases space in San Francisco: <a href="https://www.sfgate.com/business/article/Facebook-signs-lease-at-Park-Tower-in-SF-12927217.php?t=81f732c8e4">Facebook signs lease at San Francisco’s Park Tower</a>
 
